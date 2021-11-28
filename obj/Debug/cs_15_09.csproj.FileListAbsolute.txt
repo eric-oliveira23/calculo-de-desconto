@@ -1,0 +1,7 @@
+C:\Users\Usuario\source\repos\cs_15_09\bin\Debug\cs_15_09.exe.config
+C:\Users\Usuario\source\repos\cs_15_09\bin\Debug\cs_15_09.exe
+C:\Users\Usuario\source\repos\cs_15_09\bin\Debug\cs_15_09.pdb
+C:\Users\Usuario\source\repos\cs_15_09\obj\Debug\cs_15_09.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\cs_15_09\obj\Debug\cs_15_09.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\cs_15_09\obj\Debug\cs_15_09.exe
+C:\Users\Usuario\source\repos\cs_15_09\obj\Debug\cs_15_09.pdb
